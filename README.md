@@ -1,4 +1,4 @@
-markdown# 🛒 Romania FMCG Market Analytics Dashboard
+# 🛒 Romania FMCG Market Analytics Dashboard
 
 Interactive dashboard analyzing Romania's fast-moving consumer goods market from 2010 to 2024.
 
